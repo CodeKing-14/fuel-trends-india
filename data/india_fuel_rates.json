@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "title": "India Fuel Rates by State",
+    "date": "2026-06-10",
+    "currency": "INR",
+    "unit": "per litre",
+    "source": "Indian Oil Corporation / GoodReturns / CarDekho",
+    "note": "Prices vary daily based on crude oil rates and rupee-dollar exchange. State prices reflect capital city rates unless specified."
+  },
+  "states": [
+    {
+      "state": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "petrol": 115.72,
+      "diesel": 106.11,
+      "note": "Highest diesel price in India (Chittoor district)"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "petrol": 92.50,
+      "diesel": 85.30
+    },
+    {
+      "state": "Assam",
+      "capital": "Dispur",
+      "petrol": 96.10,
+      "diesel": 88.20
+    },
+    {
+      "state": "Bihar",
+      "capital": "Patna",
+      "petrol": 107.24,
+      "diesel": 94.50
+    },
+    {
+      "state": "Chhattisgarh",
+      "capital": "Raipur",
+      "petrol": 101.35,
+      "diesel": 97.80
+    },
+    {
+      "state": "Goa",
+      "capital": "Panaji",
+      "petrol": 97.20,
+      "diesel": 93.10
+    },
+    {
+      "state": "Gujarat",
+      "capital": "Gandhinagar",
+      "petrol": 101.99,
+      "diesel": 98.10,
+      "note": "Ahmedabad city rates"
+    },
+    {
+      "state": "Haryana",
+      "capital": "Chandigarh",
+      "petrol": 97.50,
+      "diesel": 89.20
+    },
+    {
+      "state": "Himachal Pradesh",
+      "capital": "Shimla",
+      "petrol": 96.80,
+      "diesel": 87.60
+    },
+    {
+      "state": "Jharkhand",
+      "capital": "Ranchi",
+      "petrol": 99.80,
+      "diesel": 94.30
+    },
+    {
+      "state": "Karnataka",
+      "capital": "Bengaluru",
+      "petrol": 110.61,
+      "diesel": 98.54
+    },
+    {
+      "state": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "petrol": 107.50,
+      "diesel": 96.20
+    },
+    {
+      "state": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "petrol": 115.10,
+      "diesel": 102.40
+    },
+    {
+      "state": "Maharashtra",
+      "capital": "Mumbai",
+      "petrol": 111.21,
+      "diesel": 97.83
+    },
+    {
+      "state": "Manipur",
+      "capital": "Imphal",
+      "petrol": 101.20,
+      "diesel": 91.50
+    },
+    {
+      "state": "Meghalaya",
+      "capital": "Shillong",
+      "petrol": 94.60,
+      "diesel": 87.40
+    },
+    {
+      "state": "Mizoram",
+      "capital": "Aizawl",
+      "petrol": 96.10,
+      "diesel": 88.50
+    },
+    {
+      "state": "Nagaland",
+      "capital": "Kohima",
+      "petrol": 98.30,
+      "diesel": 90.80
+    },
+    {
+      "state": "Odisha",
+      "capital": "Bhubaneswar",
+      "petrol": 104.80,
+      "diesel": 97.20
+    },
+    {
+      "state": "Punjab",
+      "capital": "Chandigarh",
+      "petrol": 100.45,
+      "diesel": 90.30
+    },
+    {
+      "state": "Rajasthan",
+      "capital": "Jaipur",
+      "petrol": 113.60,
+      "diesel": 99.80
+    },
+    {
+      "state": "Sikkim",
+      "capital": "Gangtok",
+      "petrol": 99.40,
+      "diesel": 90.20
+    },
+    {
+      "state": "Tamil Nadu",
+      "capital": "Chennai",
+      "petrol": 107.88,
+      "diesel": 99.65
+    },
+    {
+      "state": "Telangana",
+      "capital": "Hyderabad",
+      "petrol": 115.72,
+      "diesel": 103.82
+    },
+    {
+      "state": "Tripura",
+      "capital": "Agartala",
+      "petrol": 98.90,
+      "diesel": 91.60
+    },
+    {
+      "state": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "petrol": 105.20,
+      "diesel": 96.80
+    },
+    {
+      "state": "Uttarakhand",
+      "capital": "Dehradun",
+      "petrol": 97.60,
+      "diesel": 89.80
+    },
+    {
+      "state": "West Bengal",
+      "capital": "Kolkata",
+      "petrol": 113.47,
+      "diesel": 99.82
+    }
+  ],
+  "union_territories": [
+    {
+      "territory": "Delhi",
+      "petrol": 102.12,
+      "diesel": 95.20
+    },
+    {
+      "territory": "Chandigarh",
+      "petrol": 97.50,
+      "diesel": 89.20
+    },
+    {
+      "territory": "Puducherry",
+      "petrol": 100.80,
+      "diesel": 92.40
+    },
+    {
+      "territory": "Andaman and Nicobar Islands",
+      "petrol": 84.10,
+      "diesel": 79.50
+    },
+    {
+      "territory": "Lakshadweep",
+      "petrol": 91.50,
+      "diesel": 85.20
+    },
+    {
+      "territory": "Dadra and Nagar Haveli & Daman and Diu",
+      "petrol": 94.30,
+      "diesel": 91.20
+    },
+    {
+      "territory": "Jammu and Kashmir",
+      "petrol": 103.50,
+      "diesel": 92.80
+    },
+    {
+      "territory": "Ladakh",
+      "petrol": 105.10,
+      "diesel": 93.60
+    }
+  ],
+  "summary": {
+    "highest_petrol": {
+      "location": "Andhra Pradesh / Telangana",
+      "price": 115.72
+    },
+    "lowest_petrol": {
+      "location": "Andaman and Nicobar Islands",
+      "price": 84.10
+    },
+    "highest_diesel": {
+      "location": "Andhra Pradesh (Chittoor)",
+      "price": 106.11
+    },
+    "lowest_diesel": {
+      "location": "Andaman and Nicobar Islands",
+      "price": 79.50
+    },
+    "national_average_petrol": 104.50,
+    "national_average_diesel": 94.20
+  }
+}
