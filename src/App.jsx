@@ -1,4 +1,3 @@
-import React from 'react';
 import FuelProvider from './Providers/FuelProvider';
 import Fetchdata from './Providers/Fetchdata';
 import LineChart from './components/LineChart';
